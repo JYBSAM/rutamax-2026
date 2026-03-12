@@ -1,0 +1,8 @@
+{
+  "name": "RutaMax - Logistics TMS SaaS",
+  "description": "Transportation Management System with Document Compliance and Logistics Navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
